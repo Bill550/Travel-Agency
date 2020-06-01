@@ -1,0 +1,3 @@
+#This is for 404 Error Page To show
+
+ErrorDocument 404 http://localhost/safarnama/Error/Error404.php
